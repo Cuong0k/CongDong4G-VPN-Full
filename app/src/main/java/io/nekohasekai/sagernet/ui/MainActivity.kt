@@ -61,6 +61,14 @@ class MainActivity : ThemedActivity(),
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
+        // Check login
+        val prefs = getSharedPreferences("cd4g", MODE_PRIVATE)
+        if (prefs.getString("auth_data", null).isNullOrEmpty()) {
+            startActivity(Intent(this, io.nekohasekai.sagernet.ui.auth.LoginActivity::class.java))
+            finish()
+            return
+        }
+
         binding = LayoutMainBinding.inflate(layoutInflater)
         binding.fab.initProgress(binding.fabProgress)
         if (themeResId !in intArrayOf(
