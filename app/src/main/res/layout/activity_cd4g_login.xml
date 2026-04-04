@@ -78,6 +78,7 @@
                     android:layout_marginTop="24dp"
                     android:background="@drawable/cd4g_btn_bg"
                     android:text="ĐĂNG NHẬP"
+                    android:textAllCaps="false"
                     android:textColor="@color/cd4g_white"
                     android:textSize="16sp" />
 
