@@ -73,7 +73,6 @@
             android:configChanges="uiMode" />
 
         <activity
-        <activity
             android:name="io.nekohasekai.sagernet.ui.auth.LoginActivity"
             android:exported="false"
             android:theme="@style/Theme.Start" />
@@ -83,6 +82,7 @@
             android:exported="false"
             android:theme="@style/Theme.Start" />
 
+        <activity
             android:name="io.nekohasekai.sagernet.ui.MainActivity"
             android:configChanges="uiMode"
             android:exported="true"
