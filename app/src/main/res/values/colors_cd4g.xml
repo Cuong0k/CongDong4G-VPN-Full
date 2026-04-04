@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="cd4g_primary">#5C6BC0</color>
+    <color name="cd4g_primary_100">#C5CAE9</color>
+    <color name="cd4g_primary_200">#9FA8DA</color>
+    <color name="cd4g_primary_300">#7986CB</color>
+    <color name="cd4g_primary_accent_100">#8C9EFF</color>
+    <color name="cd4g_primary_accent_200">#536DFE</color>
     <color name="cd4g_white">#FFFFFF</color>
     <color name="cd4g_text">#212121</color>
     <color name="cd4g_text2">#757575</color>
     <color name="cd4g_success">#4CAF50</color>
     <color name="cd4g_error">#F44336</color>
-    <color name="ic_launcher_background">#5C6BC0</color>
 </resources>
