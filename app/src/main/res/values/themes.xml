@@ -7,10 +7,10 @@
         <item name="android:navigationBarColor">?colorPrimaryDark</item>
         <item name="colorPrimary">@color/cd4g_primary</item>
         <item name="colorPrimaryDark">#3F51B5</item>
-        <item name="colorAccent">@color/material_pink_accent_200</item>
+        <item name="colorAccent">@color/cd4g_primary_accent_200</item>
 
-        <item name="colorMaterial100">@color/material_pink_100</item>
-        <item name="colorMaterial300">@color/material_pink_300</item>
+        <item name="colorMaterial100">@color/cd4g_primary_100</item>
+        <item name="colorMaterial300">@color/cd4g_primary_300</item>
 
         <item name="accentOrTextSecondary">?colorAccent</item>
         <item name="accentOrTextPrimary">?colorAccent</item>
@@ -55,10 +55,10 @@
         <item name="android:navigationBarColor">?colorPrimaryDark</item>
         <item name="colorPrimary">@color/cd4g_primary</item>
         <item name="colorPrimaryDark">#3F51B5</item>
-        <item name="colorAccent">@color/material_pink_accent_200</item>
+        <item name="colorAccent">@color/cd4g_primary_accent_200</item>
 
-        <item name="colorMaterial100">@color/material_pink_100</item>
-        <item name="colorMaterial300">@color/material_pink_300</item>
+        <item name="colorMaterial100">@color/cd4g_primary_100</item>
+        <item name="colorMaterial300">@color/cd4g_primary_300</item>
 
         <item name="accentOrTextSecondary">?colorAccent</item>
         <item name="accentOrTextPrimary">?colorAccent</item>
@@ -135,8 +135,8 @@
     <style name="Theme.SagerNet.Pink_SSR">
         <item name="colorPrimary">@color/color_pink_ssr</item>
         <item name="colorPrimaryDark">@color/color_pink_ssr</item>
-        <item name="colorAccent">@color/material_pink_accent_200</item>
-        <item name="colorMaterial100">@color/material_pink_accent_100</item>
+        <item name="colorAccent">@color/cd4g_primary_accent_200</item>
+        <item name="colorMaterial100">@color/cd4g_primary_accent_100</item>
         <item name="colorMaterial300">@color/color_pink_ssr</item>
     </style>
 
@@ -416,8 +416,8 @@
     <style name="Theme.SagerNet.Dialog.Pink_SSR">
         <item name="colorPrimary">@color/color_pink_ssr</item>
         <item name="colorPrimaryDark">@color/color_pink_ssr</item>
-        <item name="colorAccent">@color/material_pink_accent_200</item>
-        <item name="colorMaterial100">@color/material_pink_accent_100</item>
+        <item name="colorAccent">@color/cd4g_primary_accent_200</item>
+        <item name="colorMaterial100">@color/cd4g_primary_accent_100</item>
         <item name="colorMaterial300">@color/color_pink_ssr</item>
     </style>
 
